@@ -1,2 +1,2 @@
-# prduct manager 
+# product manager 
 Be patient
